@@ -13,3 +13,12 @@ Please make sure you have the following softwares or applications installed for 
 1. [Node.js](https://nodejs.org/) (23.3.0v or higher)
 2. npm (this comes with Node.js)
 3. [MongoDB](https://www.mongodb.com/docs/manual/installation/) (8.0.3v or higher)
+
+## TODOs
+
+You can track the progress of this project here: 
+
+https://trello.com/b/hHewTR2w/mhrs-set-buidler
+
+As for the progress of this project, it doesn't even have a user interfance at this time.
+
