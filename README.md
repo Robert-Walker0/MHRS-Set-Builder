@@ -22,3 +22,6 @@ https://trello.com/b/hHewTR2w/mhrs-set-buidler
 
 As for the progress of this project, it doesn't even have a user interfance at this time.
 
+## Credits
+
+Thank you, [UXWing](https://uxwing.com/) for the image of the [Instant Camera Icon](https://uxwing.com/instant-camera-icon/) that was used for the navigation bar on the very far left of the website.
