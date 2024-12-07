@@ -24,4 +24,4 @@ As for the progress of this project, it doesn't even have a user interfance at t
 
 ## Credits
 
-Thank you, [UXWing](https://uxwing.com/) for the image of the [Instant Camera Icon](https://uxwing.com/instant-camera-icon/) that was used for the navigation bar on the very far left of the website.
+Thank you, [UXWing](https://uxwing.com/) for the image of the [Instant Camera Icon](https://uxwing.com/instant-camera-icon/) and [Github](https://uxwing.com/github-icon/) that was used for the navigation bar on the very far left of the website.
