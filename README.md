@@ -14,6 +14,36 @@ Please make sure you have the following softwares or applications installed for 
 2. npm (this comes with Node.js)
 3. [MongoDB](https://www.mongodb.com/docs/manual/installation/) (8.0.3v or higher)
 
+### How to use
+
+As of (12/7/2024) this project is incomplete.
+
+However, you can still use part of it if you want, this is how you start a local server for everything that is currently available.
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Robert-Walker0/MHRS-Set-Builder
+```
+
+2. Move into repository directory
+```bash
+cd MHRS-Set-Builder-main
+```
+
+3. Move to app directory
+```bash
+cd app
+```
+
+4. Run local server
+```bash
+npm run dev
+```
+
+
+If you need to exit the server you can use the CTRL+C aka the copy command to shut it down, make sure to do it inside of the terminal that the server was started from.
+
+
 ## TODOs
 
 You can track the progress of this project here: 
