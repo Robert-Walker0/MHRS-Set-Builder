@@ -1,0 +1,27 @@
+
+ul {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkslategray;
+}
+
+li {
+    margin: 0.5svh;
+}
+
+p {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+img {
+    max-width: 5svh;
+    border: 0.3svh solid black;
+    background-color: white;
+    border-radius: 30%;
+}
