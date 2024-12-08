@@ -25,3 +25,13 @@ img {
     background-color: white;
     border-radius: 30%;
 }
+
+.git {
+    transition: 0.2s ease;
+}
+
+.git:hover {
+    cursor: pointer;
+    transform: translateY(-10px);
+    background-color: hsl(138, 35%, 30%);
+}
